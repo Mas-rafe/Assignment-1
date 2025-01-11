@@ -1,0 +1,23 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+   
+    align-items:center ;
+    }
+
+   
+h3{
+    font-size: 32px;
+    font-weight: bold;
+    color:#0E0E0E;
+}
+.sign{
+    color: #006A50;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 11px;
+    height: 52px;
+    width: 116px;
+    padding-block: ;
+    
+}
