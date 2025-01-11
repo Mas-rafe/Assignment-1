@@ -2,7 +2,6 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items:center ;
-    
     }
 
    
@@ -53,4 +52,42 @@ h3{
     .skill-cont{
         display: flex;
         justify-content: space-between;
+        }
+        .skill{
+            gap:24px ;
+        }
+    .vision-cont{
+        display: flex;
+        justify-content: space-between;
+        gap: 24px;
+        padding:30px ;
+        
+    }
+    .v-title{
+        font-size: 20px;
+        font-weight: bold;
+        color: #0E0E0E;
+    }
+    .v-desk{
+        font-size: 16px;
+        font-weight:300px;
+        color: rgba(14, 14, 14, 0.7);
+       
+    }
+    .aljajera{
+        display: flex;
+        gap: 10px;
+        align-items:top;
+        justify-content:left;
+    }
+    .date{
+        text-decoration: none;
+        display: flex;
+        gap: 20px;
+        list-style: none;
+    }
+    .date li{
+        height: 24px;
+        width: 100px;
+        align-items: end;
     }
